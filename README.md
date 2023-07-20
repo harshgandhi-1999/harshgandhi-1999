@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android<br>👯 I’m looking to collaborate on any kubernetes project<br>🌱 I’m currently learning Typescript and Kotlin<br>💬 Ask me about MERN stack and Android.
+🔭 I’m currently working on Android<br>👯 I’m looking to collaborate on any kubernetes project<br>🌱 I’m currently learning Spring boot<br>💬 Ask me about MERN stack and Android.
 
 
 ## 🌐 Socials:
