@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android<br>👯 I’m looking to collaborate on any kubernetes project<br>🌱 I’m currently learning Spring boot<br>💬 Ask me about MERN stack and Android.
+🔭 I’m currently working on Spring boot<br>👯 I’m looking to collaborate on any kubernetes project or microservices<br>🌱 I’m currently learning microservices in Spring boot<br>💬 Ask me about MERN stack and Android.
 
 
 ## 🌐 Socials:
